@@ -1,5 +1,5 @@
 import React from 'react';
-import { FlaskConical, Cpu, TrendingUp, Cloud, Database, Wifi, BarChart2, BrainCircuit } from 'lucide-react';
+import { FlaskConical, TrendingUp, Cloud, Database, Wifi, BarChart2, BrainCircuit } from 'lucide-react';
 import { research } from '../data/profileData';
 
 const researchCards = [

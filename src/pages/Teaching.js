@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, BookOpen, CheckCircle } from 'lucide-react';
+import { BookOpen, CheckCircle } from 'lucide-react';
 import { teaching, syllabusDesign, boardOfStudies, mdpParticipation } from '../data/profileData';
 
 export default function Teaching() {

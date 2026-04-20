@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Mic, Building } from 'lucide-react';
+import { Mic, Building } from 'lucide-react';
 import { visitingFaculty, corporateTraining } from '../data/profileData';
 
 export default function ResourcePerson() {
