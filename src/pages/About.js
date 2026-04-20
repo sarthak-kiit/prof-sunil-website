@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, Target, Lightbulb, BookOpen } from 'lucide-react';
+import { Target, Lightbulb, BookOpen } from 'lucide-react';
 import { profile, education } from '../data/profileData';
 
 export default function About() {

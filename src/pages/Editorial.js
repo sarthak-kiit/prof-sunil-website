@@ -1,5 +1,5 @@
 import React from 'react';
-import { FileEdit, ExternalLink } from 'lucide-react';
+import { FileEdit } from 'lucide-react';
 import { editorialRoles } from '../data/profileData';
 
 export default function Editorial() {

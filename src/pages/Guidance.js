@@ -1,10 +1,9 @@
 import React from 'react';
-import { Users, CheckCircle, Clock } from 'lucide-react';
+import { CheckCircle, Clock } from 'lucide-react';
 import { researchGuides } from '../data/profileData';
 
 export default function Guidance() {
   const awarded = researchGuides.filter(r => r.status === 'Awarded');
-  const submitted = researchGuides.filter(r => r.status === 'Submitted');
   const phd = researchGuides.filter(r => r.level === 'Ph.D.');
   const mtech = researchGuides.filter(r => r.level === 'M.Tech');
 

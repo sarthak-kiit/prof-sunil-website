@@ -108,7 +108,7 @@ export default function Contact() {
                 </div>
                 <ExternalLink size={14}/>
               </a>
-              <a href="#" className="profile-link">
+              <a href="https://researchgate.net" target="_blank" rel="noreferrer" className="profile-link">
                 <div className="profile-link-icon rg">R</div>
                 <div>
                   <strong>ResearchGate</strong>
@@ -116,7 +116,7 @@ export default function Contact() {
                 </div>
                 <ExternalLink size={14}/>
               </a>
-              <a href="#" className="profile-link">
+              <a href="https://researchgate.net" target="_blank" rel="noreferrer" className="profile-link">
                 <div className="profile-link-icon li">in</div>
                 <div>
                   <strong>LinkedIn</strong>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Briefcase, Crown } from 'lucide-react';
+import { Crown } from 'lucide-react';
 import { experience, adminRoles } from '../data/profileData';
 
 export default function Experience() {

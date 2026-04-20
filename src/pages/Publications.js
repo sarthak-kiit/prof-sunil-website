@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, BookOpen, ExternalLink } from 'lucide-react';
+import { Search, BookOpen } from 'lucide-react';
 import { publications } from '../data/profileData';
 
 const categories = ['All', 'Journal', 'Conference'];

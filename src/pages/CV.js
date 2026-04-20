@@ -97,10 +97,10 @@ export default function CV() {
               <a href={profile.googleScholar} target="_blank" rel="noreferrer" className="cv-ext-link">
                 <ExternalLink size={14}/> Google Scholar
               </a>
-              <a href="#" className="cv-ext-link">
+              <a href="https://researchgate.net" target="_blank" rel="noreferrer" className="cv-ext-link">
                 <ExternalLink size={14}/> ResearchGate <span className="badge badge-amber" style={{fontSize:'0.7rem'}}>Add Link</span>
               </a>
-              <a href="#" className="cv-ext-link">
+              <a href="https://researchgate.net" target="_blank" rel="noreferrer" className="cv-ext-link">
                 <ExternalLink size={14}/> LinkedIn <span className="badge badge-amber" style={{fontSize:'0.7rem'}}>Add Link</span>
               </a>
             </div>
